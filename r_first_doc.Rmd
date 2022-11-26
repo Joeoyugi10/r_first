@@ -5,6 +5,8 @@ date: "5/12/2020"
 output: pdf_document
 ---
 
+### not my work, needed the book.
+
 ##we use nycflights13, skimr and tidymodels packages.
 ```{r}
 library(tidymodels)      # for the recipes package, along with the rest of tidymodels Helper packages
